@@ -20,3 +20,9 @@ This is an attempted clone of the awesome vim-netrw wrapper, [vim-vinegar]
 * Copy this repository
 * Copy `vis-netrw.lua` to plugins directory
 * Add `require("plugins/vis-netrw")` to visrc.lua
+
+## License
+
+This project is licensed under the MIT license.
+
+See LICENSE.txt for more information.
