@@ -8,7 +8,7 @@ local res = vis:map(vis.modes.NORMAL, "-", function()
     end
     
     -- get path from window's netrwpath or file's path
-    local path = vis.win.netrwpath or vis.win.file.path
+    local path = vis.win.netrwpath
     
     -- use pwd to get directory to open
     if path == nil then
