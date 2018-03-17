@@ -1,7 +1,6 @@
 # vis-netrw
 
-This is an attempted clone of the awesome vim-netrw wrapper, [vim-vinegar]
-(https://github.com/tpope/vim-vinegar)
+This is an attempted clone of the awesome vim-netrw wrapper, [vim-vinegar](https://github.com/tpope/vim-vinegar)
 
 ## Commands
 
